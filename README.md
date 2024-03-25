@@ -1,4 +1,4 @@
-# ASSELA HOTEL: "YOUR COMFORT ZONE!"
+# ASSELA HOTEL: "YOUR COMFORT ZONE!" 
 
 we are working on a website using only html and css as a team with five members.
 we are computer science students at arsi university with ambitions and great dreams and open to colaborate and work as a team.
